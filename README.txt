@@ -1,4 +1,3 @@
-# ====================================================================================================================================================
 # SCRIPT NAME:  Windows_10_ESU_Catalog_Monthly_Updates.ps1
 # SUPPORTED OS: Windows 10 Version 22H2 x64 and x86 (and ARM64 partially), ESU phase
 # AUTHOR:       ardap86
@@ -40,4 +39,3 @@
 #
 # DISCLAIMER:
 #   Use at your own risk. This script is provided "as is" without warranty of any kind - Always test in a controlled environment before deployment
-# ====================================================================================================================================================
